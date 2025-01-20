@@ -1,0 +1,11 @@
+ACPI,Microsoft ACPI Driver
+xxx,xxxx
+vgk,Vanguard
+vgc,Vanguard
+faceit,FaceIt
+BadlionAnticheat,Badlion
+EasyAntiCheat_EOS,EasyAntiCheat Free version
+EasyAntiCheat,EasyAntiCheat
+BEDaisy,Battleye
+TmXPFlt,Trend Micro Anti-Virus
+srv2,DriverSMBdor
