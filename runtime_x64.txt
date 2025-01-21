@@ -1,4 +1,4 @@
-ehttps://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2005_x86.exe,vcredist2005_x86.exe
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2005_x86.exe,vcredist2005_x86.exe
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2005_x64.exe,vcredist2005_x64.exe
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2008_x86.exe,vcredist2008_x86.exe
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2008_x64.exe,vcredist2008_x64.exe
