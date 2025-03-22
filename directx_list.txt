@@ -1,0 +1,2 @@
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/APR2007_XACT_x64.cab,APR2007_XACT_x64.cab
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/APR2007_XACT_x86.cab,APR2007_XACT_x86.cab
