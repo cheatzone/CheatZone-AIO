@@ -1,0 +1,12 @@
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2005_x86.exe,vcredist2005_x86.exe, /q
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2005_x64.exe,vcredist2005_x64.exe, /q
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2008_x86.exe,vcredist2008_x86.exe, /qb
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2008_x64.exe,vcredist2008_x64.exe, /qb
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2010_x86.exe,vcredist2010_x86.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2010_x64.exe,vcredist2010_x64.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2012_x86.exe,vcredist2012_x86.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2012_x64.exe,vcredist2012_x64.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2013_x86.exe,vcredist2013_x86.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2013_x64.exe,vcredist2013_x64.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2015_2017_2019_2022_x86.exe,vcredist2015_2017_2019_2022_x86.exe, /passive /norestart
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/runtime/vcredist2015_2017_2019_2022_x64.exe,vcredist2015_2017_2019_2022_x64.exe, /passive /norestart
