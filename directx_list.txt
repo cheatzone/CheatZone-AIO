@@ -11,7 +11,7 @@ https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2006_XACT_x
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2006_xinput_x64.cab,AUG2006_xinput_x64.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2006_xinput_x86.cab,AUG2006_xinput_x86.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2007_XACT_x64.cab,AUG2007_XACT_x64.cab
-https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2007_XACT_x86.cabAUG2007_XACT_x86.cab
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2007_XACT_x86.cab,AUG2007_XACT_x86.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2007_d3dx10_35_x64.cab,AUG2007_d3dx10_35_x64.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2007_d3dx10_35_x86.cab,AUG2007_d3dx10_35_x86.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/AUG2007_d3dx9_35_x64.cab,AUG2007_d3dx9_35_x64.cab
@@ -60,7 +60,7 @@ https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/DSETUP.dll,DSE
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/DXSETUP.exe,DXSETUP.exe
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/Dec2005_d3dx9_28_x64.cab,Dec2005_d3dx9_28_x64.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/Dec2005_d3dx9_28_x86.cab,Dec2005_d3dx9_28_x86.cab
-https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/FEB2007_XACT_x64.cabFEB2007_XACT_x64.cab
+https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/FEB2007_XACT_x64.cab,FEB2007_XACT_x64.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/FEB2007_XACT_x86.cab,FEB2007_XACT_x86.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/Feb2005_d3dx9_24_x64.cab,Feb2005_d3dx9_24_x64.cab
 https://github.com/cheatzone/CheatZone-AIO/raw/refs/heads/main/dx/Feb2005_d3dx9_24_x86.cab,Feb2005_d3dx9_24_x86.cab
